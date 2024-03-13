@@ -1,6 +1,7 @@
 <h2 align="center">Olá, sou o Guilherme👋</h2>
 <h3 align="center">Engenheiro de Computação e Técnico em Mecatrônica</h3>
 
+
 - 🔭 Atualmente estou trabalhando com **desenvolvimento C# .NET Core e Vue.js**
 
 - 🌱 Estou aprendendo **mais sobre arquitetura de software, bancos de dados NoSQL e Inteligência Artificial**
